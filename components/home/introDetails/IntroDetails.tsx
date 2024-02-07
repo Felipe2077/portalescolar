@@ -2,7 +2,7 @@ import React from 'react';
 
 const IntroDetails = () => {
   return (
-    <div className=" flex h-[300px] text-xl font-medium text-dark-400">
+    <div className=" hidden h-[300px] text-base font-medium text-dark-400 medium:flex desktop:text-xl">
       <div className="flex items-center justify-center bg-dark-200  px-14 text-center leading-relaxed">
         <p>
           Mantida pelo governo do Estado de São Paulo, os cursos oferecidos –
