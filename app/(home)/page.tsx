@@ -1,3 +1,4 @@
+import Courses from '@/components/home/courses/Courses';
 import Intro from '@/components/home/intro/Intro';
 import IntroDetails from '@/components/home/introDetails/IntroDetails';
 
@@ -9,6 +10,7 @@ export default function Home() {
         <Intro />
       </div>
       <IntroDetails />
+      <Courses />
     </section>
   );
 }

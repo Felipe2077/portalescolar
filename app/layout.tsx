@@ -31,7 +31,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.variable} ${mukta.variable} mx-auto flex max-w-[1920px] flex-col`}
+        className={`${inter.variable} ${mukta.variable} mx-auto flex h-full max-w-[1920px] flex-col`}
       >
         <NavBar />
         {children}
