@@ -43,25 +43,27 @@ const Courses = () => {
       <p className="mb-12 text-center text-[32px] font-semibold sm:text-[40px]">
         Cursos técnicos
       </p>
-      <div className="flex flex-col items-center gap-6 sm:grid sm:grid-cols-auto-fill-100 sm:grid-rows-2 sm:gap-8">
-        {grid.map((item) => {
-          return (
-            <div
-              key={item.description}
-              className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 sm:h-[300px] sm:w-[280px]"
-            >
-              <Image
-                src={item.src}
-                width={125}
-                height={125}
-                alt={item.description}
-              />
-              <p className="mt-8 line-clamp-2 text-center text-xl font-semibold text-dark-100 sm:mt-6">
-                {item.description}
-              </p>
-            </div>
-          );
-        })}
+      <div>
+        <div className="flex flex-col items-center gap-6 sm:grid sm:grid-cols-auto-fill-100 sm:grid-rows-2 sm:gap-8">
+          {grid.map((item) => {
+            return (
+              <div
+                key={item.description}
+                className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 sm:h-[300px] sm:w-[280px]"
+              >
+                <Image
+                  src={item.src}
+                  width={125}
+                  height={125}
+                  alt={item.description}
+                />
+                <p className="mt-8 line-clamp-2 text-center text-xl font-semibold text-dark-100 sm:mt-6">
+                  {item.description}
+                </p>
+              </div>
+            );
+          })}
+        </div>
       </div>
     </section>
   );

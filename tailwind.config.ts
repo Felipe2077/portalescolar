@@ -25,6 +25,7 @@ const config: Config = {
         'information': '#E0E0E0',
       },
       screens: {
+        sm: '655px',
         tablet: '720px', // Add custom breakpoint
         medium: '990px',
         desktop: '1216px', // Add another custom breakpoint
