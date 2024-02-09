@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 
 const News = () => {
@@ -49,9 +50,13 @@ const News = () => {
           </div>
         </div>
       </div>
-      <button className="mt-20 w-full rounded bg-primary-500 px-12 py-4 text-2xl font-medium text-white sm:w-max">
+
+      <Link
+        href="/noticias"
+        className="mt-20 w-full rounded bg-primary-500 px-12 py-4 text-2xl font-medium text-white sm:w-max"
+      >
         Ver mais notícias
-      </button>
+      </Link>
     </section>
   );
 };
