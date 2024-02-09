@@ -3,7 +3,7 @@ import React from 'react';
 
 const Jobs = () => {
   return (
-    <section className="flex w-full flex-col justify-center sm:mt-24 sm:h-[600px] sm:flex-row">
+    <section className="mt-10 flex w-full flex-col justify-center sm:mt-24 sm:h-[600px] sm:flex-row">
       <div className="flex w-full items-center justify-center bg-primary-500">
         <p className="p-12 font-mukta text-5xl font-semibold text-white">
           Estágios e empregos
