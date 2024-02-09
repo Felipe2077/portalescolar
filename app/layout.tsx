@@ -3,6 +3,7 @@ import { Inter, Mukta } from 'next/font/google';
 import './globals.css';
 import React from 'react';
 import NavBar from '@/components/shared/navbar/NavBar';
+import Footer from '@/components/shared/footer/Footer';
 
 // ** Font declaration
 const inter = Inter({
@@ -35,6 +36,7 @@ export default function RootLayout({
       >
         <NavBar />
         {children}
+        <Footer />
       </body>
     </html>
   );
