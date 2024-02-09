@@ -44,12 +44,12 @@ const Courses = () => {
         Cursos técnicos
       </p>
       <div>
-        <div className="flex flex-col items-center gap-6 sm:grid sm:grid-cols-auto-fill-100 sm:grid-rows-2 sm:gap-8">
+        <div className="flex flex-col content-stretch gap-6 sm:grid sm:grid-cols-[repeat(auto-fit,minmax(280px,2fr))] sm:grid-rows-2 sm:gap-8">
           {grid.map((item) => {
             return (
               <div
                 key={item.description}
-                className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 sm:h-[300px] sm:w-[280px]"
+                className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 "
               >
                 <Image
                   src={item.src}
