@@ -1,7 +1,12 @@
+import SocialHeader from '@/components/news/socialheader/SocialHeader';
 import React from 'react';
 
 const Noticias = () => {
-  return <div>noticias</div>;
+  return (
+    <main>
+      <SocialHeader />
+    </main>
+  );
 };
 
 export default Noticias;
