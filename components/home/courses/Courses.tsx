@@ -48,7 +48,7 @@ const Courses = () => {
           return (
             <div
               key={item.description}
-              className="flex h-[222px] w-full flex-col items-center justify-center bg-dark-300 px-14 sm:h-[300px] sm:w-[280px]"
+              className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 sm:h-[300px] sm:w-[280px]"
             >
               <Image
                 src={item.src}
