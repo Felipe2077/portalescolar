@@ -39,18 +39,26 @@ const grid = [
 
 const Courses = () => {
   return (
-    <section className="inner-container">
-      <p></p>
-      <div className="grid grid-flow-col grid-rows-2 gap-4 ">
+    <section className="inner-container mt-28 flex flex-col p-6">
+      <p className="mb-12 text-center text-[32px] font-semibold sm:text-[40px]">
+        Cursos técnicos
+      </p>
+      <div className="flex flex-col items-center gap-6 sm:grid sm:grid-cols-auto-fill-100 sm:grid-rows-2 sm:gap-8">
         {grid.map((item) => {
           return (
-            <div key={item.description}>
+            <div
+              key={item.description}
+              className="flex h-[222px] w-full flex-col items-center justify-center bg-dark-300 px-14 sm:h-[300px] sm:w-[280px]"
+            >
               <Image
                 src={item.src}
                 width={125}
                 height={125}
                 alt={item.description}
               />
+              <p className="mt-8 line-clamp-2 text-center text-xl font-semibold text-dark-100 sm:mt-6">
+                {item.description}
+              </p>
             </div>
           );
         })}
