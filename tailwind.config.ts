@@ -33,6 +33,10 @@ const config: Config = {
         inter: ['var(--font-inter)'],
         mukta: ['var(--font-mukta)'],
       },
+      gridTemplateColumns: {
+        'auto-fill-100': 'repeat(auto-fill, minmax(280px, 1fr))',
+        'auto-fit-100': 'repeat(auto-fit, minmax(280px, 1fr))',
+      },
     },
   },
   plugins: [],
