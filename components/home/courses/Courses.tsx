@@ -1,11 +1,13 @@
 'use client';
 import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 
 const grid = [
   {
     src: '/assets/images/enfermagem.png',
     description: 'ENFERMAGEM',
+    url: '/cursos',
   },
   {
     src: '/assets/images/ads.png',
@@ -51,15 +53,20 @@ const Courses = () => {
                 key={item.description}
                 className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 "
               >
-                <Image
-                  src={item.src}
-                  width={125}
-                  height={125}
-                  alt={item.description}
-                />
-                <p className="mt-8 line-clamp-2 text-center text-xl font-semibold text-dark-100 sm:mt-6">
-                  {item.description}
-                </p>
+                <Link
+                  href="#"
+                  className="flex flex-col items-center justify-center "
+                >
+                  <Image
+                    src={item.src}
+                    width={125}
+                    height={125}
+                    alt={item.description}
+                  />
+                  <p className="mt-8 line-clamp-2 text-center text-xl font-semibold text-dark-100 sm:mt-6">
+                    {item.description}
+                  </p>
+                </Link>
               </div>
             );
           })}
