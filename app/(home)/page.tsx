@@ -2,7 +2,7 @@ import Courses from '@/components/home/courses/Courses';
 import Intro from '@/components/home/intro/Intro';
 import IntroDetails from '@/components/home/introDetails/IntroDetails';
 import Jobs from '@/components/home/jobs/Jobs';
-import News from '@/components/home/news/News';
+import ArticleContainer from '@/components/news/ArticleArea/ArticleContainer';
 
 /* eslint-disable tailwindcss/no-custom-classname */
 export default function Home() {
@@ -14,7 +14,7 @@ export default function Home() {
       <IntroDetails />
       <Courses />
       <Jobs />
-      <News />
+      <ArticleContainer footer={true} />
     </section>
   );
 }
