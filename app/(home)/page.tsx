@@ -1,4 +1,4 @@
-import Courses from '@/components/home/courses/Courses';
+import Courses from '@/components/courses/Courses';
 import Intro from '@/components/home/intro/Intro';
 import IntroDetails from '@/components/home/introDetails/IntroDetails';
 import Jobs from '@/components/home/jobs/Jobs';

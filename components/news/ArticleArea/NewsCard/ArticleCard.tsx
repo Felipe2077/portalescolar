@@ -5,7 +5,7 @@ import React from 'react';
 const ArticleFooterCard = ({ footer }: { footer: boolean }) => {
   return (
     <Link
-      href="/noticia1"
+      href="/noticias/noticia1"
       className={` bg-dark-300 ${footer ? 'max-w-[384px]' : 'mb-20 flex max-w-[800px] gap-6'}`}
     >
       <Image

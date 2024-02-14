@@ -1,7 +1,8 @@
+import Courses from '@/components/courses/Courses';
 import React from 'react';
 
 const Cursos = () => {
-  return <div>pagina do curso</div>;
+  return <Courses />;
 };
 
 export default Cursos;

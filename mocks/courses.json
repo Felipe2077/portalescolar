@@ -1,0 +1,170 @@
+[
+  {
+    "courseId": "ENFERMAGEM",
+    "src": "/assets/images/enfermagem.png",
+    "title": "ENFERMAGEM",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/enfermagem.jpg",
+    "shift": {
+      "icon": "/assets/icons/Sun.png",
+      "time": "Diurno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "4 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "desenvolvimentoDeSistemas",
+    "src": "/assets/images/ads.png",
+    "title": "DESENVOLVIMENTO DE SISTEMAS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/sistemas.jpg",
+    "shift": {
+      "icon": "/assets/icons/Moon.png",
+      "time": "Noturno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "recursosHumanos",
+    "src": "/assets/images/rh.png",
+    "title": "RECURSOS HUMANOS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/rh.jpg",
+    "shift": {
+      "icon": "/assets/icons/Sun.png",
+      "time": "Diurno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "administracao",
+    "src": "/assets/images/adm.png",
+    "title": "ADMINISTRAÇÃO",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/adm.jpg",
+    "shift": {
+      "icon": "/assets/icons/moon.png",
+      "time": "Noturno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "acucarAlcool",
+    "src": "/assets/images/acucar.png",
+    "title": "AÇÚCAR E ÁLCOOL",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/cana.jpg",
+    "shift": {
+      "icon": "/assets/icons/Sun.png",
+      "time": "Diurno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "agropecuaria",
+    "src": "/assets/images/agropecuaria.png",
+    "title": "AGROPECUÁRIA",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/agropecuaria.jpg",
+    "shift": {
+      "icon": "/assets/icons/Sun.png",
+      "time": "Diurno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "zootecnia",
+    "src": "/assets/images/zootec.png",
+    "title": "ZOOTECNIA",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/zoo.jpg",
+    "shift": {
+      "icon": "/assets/icons/Sun.png",
+      "time": "Diurno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  },
+  {
+    "courseId": "agranegocio",
+    "src": "/assets/images/agronegocio.png",
+    "title": "AGRONEGOCIO",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "urlCover": "/assets/images/courses/agronegocio.jpg",
+    "shift": {
+      "icon": "/assets/icons/Sun.png",
+      "time": "Diurno"
+    },
+    "coordination": {
+      "icon": "/assets/icons/User.png",
+      "name": "Dwight Schrute"
+    },
+    "coursetime": {
+      "icon": "/assets/icons/HourglassMedium.png",
+      "time": "2 anos"
+    },
+    "generalObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus.",
+    "specificObjectives": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet vitae vestibulum iaculis lacus aliquam convallis dolor risus. Velit vitae in lectus facilisis arcu tempor. Tempus dolor convallis accumsan nulla mi amet. Vulputate risus neque tellus faucibus molestie sem mauris. Semper quis orci scelerisque lectus. Leo sollicitudin cursus diam maecenas posuere at malesuada maecenas. Facilisis nunc nunc pellentesque libero arcu et leo dignissim. Pretium nulla leo pharetra, fermentum magnis. Odio molestie nec, vulputate tellus tellus."
+  }
+]

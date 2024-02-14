@@ -38,7 +38,7 @@ const NavBar = () => {
           </Link>
         </li>
         <li>
-          <Link href="/noticias" className="px-2 py-3">
+          <Link href="/noticias/noticias" className="px-2 py-3">
             Notícias
           </Link>
         </li>

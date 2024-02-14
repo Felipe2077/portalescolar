@@ -13,7 +13,7 @@ const ArticleContainer = ({ footer }: { footer: boolean }) => {
           <ArticleCard footer={true} />
         </div>
         <Link
-          href="/noticias"
+          href="/noticias/noticias"
           className="mt-20 w-full rounded bg-primary-500 px-12 py-4 text-2xl font-medium text-white sm:w-max"
         >
           Ver mais notícias

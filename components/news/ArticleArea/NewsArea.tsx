@@ -3,8 +3,6 @@ import ArticleContainer from './ArticleContainer';
 import Article from './Article';
 
 const NewsArea = ({ newsSection }: { newsSection: string }) => {
-  console.log(newsSection);
-
   return (
     <div>
       <section className="mt-9 flex flex-col justify-center">
