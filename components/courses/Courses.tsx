@@ -14,14 +14,12 @@ const Courses = () => {
         <div className="flex flex-col content-stretch gap-6 sm:grid sm:grid-cols-[repeat(auto-fit,minmax(280px,2fr))] sm:grid-rows-2 sm:gap-8">
           {courses.map((item) => {
             return (
-              <div
+              <Link
+                href={`cursos/${item.courseId}`}
+                className="flex flex-col items-center justify-center "
                 key={item.title}
-                className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 "
               >
-                <Link
-                  href={`cursos/${item.courseId}`}
-                  className="flex flex-col items-center justify-center "
-                >
+                <div className="flex h-[250px] w-full flex-col items-center justify-center bg-dark-300 py-4 ">
                   <Image
                     src={item.src}
                     width={125}
@@ -31,8 +29,8 @@ const Courses = () => {
                   <p className="mt-8 line-clamp-2 text-center text-xl font-semibold uppercase text-dark-100 sm:mt-6">
                     {item.title}
                   </p>
-                </Link>
-              </div>
+                </div>
+              </Link>
             );
           })}
         </div>

@@ -9,19 +9,19 @@ const Cursos = ({ params }: { params: any }) => {
         if (course.courseId === params.cursos) {
           return (
             <section key={course.courseId} className=" flex flex-col">
-              <h1 className="mt-6 bg-primary-500 py-8 text-center font-mukta text-3xl text-white">
+              <h1 className="mt-6 bg-primary-500 py-8 text-center font-mukta text-2xl text-white sm:text-3xl">
                 {course.title}
               </h1>
-              <div className="inner-container  mt-24 flex max-h-[488px] gap-14">
+              <div className="inner-container mt-12 flex flex-col   items-center justify-center gap-14 sm:mt-24 medium:flex-row">
                 <Image
                   alt="course image"
                   src={course.urlCover}
+                  quality={60}
                   width={488}
                   height={488}
-                  objectFit="fill"
                 />
                 <div>
-                  <p>{course.description}</p>
+                  <p className="text-base  sm:text-lg">{course.description}</p>
                   <ul className="mt-8 flex flex-col gap-8">
                     <li className="flex items-center gap-4">
                       <Image
@@ -84,7 +84,7 @@ const Cursos = ({ params }: { params: any }) => {
                   </p>
                 </div>
               </section>
-              <section className=" mt-20  py-12">
+              <section className=" mt-10 py-12  sm:mt-20">
                 <div className="inner-container flex flex-col gap-4">
                   <h2 className="font-mukta text-3xl font-medium">
                     Objetivos específicos
