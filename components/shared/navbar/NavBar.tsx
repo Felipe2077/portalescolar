@@ -43,7 +43,7 @@ const NavBar = () => {
           </Link>
         </li>
         <li>
-          <Link href="/contatos" className="px-2 py-3">
+          <Link href="/contato" className="px-2 py-3">
             Contato
           </Link>
         </li>

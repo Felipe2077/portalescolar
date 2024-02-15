@@ -1,0 +1,38 @@
+[
+  {
+    "course": "administrativo",
+    "email": "administrativo@lorem.com"
+  },
+  {
+    "course": "biblioteca",
+    "email": "biblioteca@lorem.com"
+  },
+  {
+    "course": "diretoria",
+    "email": "diretoria@lorem.com"
+  },
+  {
+    "course": "secretaria",
+    "email": "secretaria@lorem.com"
+  },
+  {
+    "course": "biblioteca",
+    "email": "biblioteca@lorem.com"
+  },
+  {
+    "course": "coordenadoria",
+    "email": "coordenadoria@lorem.com"
+  },
+  {
+    "course": "TI",
+    "email": "TI@lorem.com"
+  },
+  {
+    "course": "almoxarifado",
+    "email": "almoxarifado@lorem.com"
+  },
+  {
+    "course": "estágio",
+    "email": "estágio@lorem.com"
+  }
+]
